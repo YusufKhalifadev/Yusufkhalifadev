@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **17-year-old high-school student** curious about programming and every computer-science aspect, learning all about new stuff in free time.
+I'm a **18-year-old uni student** curious about programming and every computer-science aspect, learning all about new stuff in free time.
 
 I'm so busy studying so you won't notice me much.
 
