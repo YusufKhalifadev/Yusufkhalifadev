@@ -1,8 +1,9 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&weight=900&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey+There!%F0%9F%91%8B;I'm+MyDrift‑user!" alt="Typing SVG" />
 
-I'm a **18-year-old uni student** curious about programming and every computer-science aspect, learning all about new stuff in free time.
-
-I'm so busy studying so you won't notice me much.
+  **18-year-old Junior CS Student.**
+  I'm so busy studying so you won't notice me much.
+</div>
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YusufKhalifadev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=YusufKhalifadev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
